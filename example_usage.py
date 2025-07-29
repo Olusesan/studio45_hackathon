@@ -109,8 +109,8 @@ def demonstrate_mcp_tools():
             }
         },
         {
-            "name": "launch_napari",
-            "description": "Launch napari viewer with an image",
+            "name": "launch_matplotlib",
+            "description": "Create matplotlib viewer with an image",
             "example": {
                 "image_path": "/path/to/image.tiff",
                 "colormap": "green"

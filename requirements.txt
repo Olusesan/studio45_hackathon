@@ -1,0 +1,24 @@
+# MCP Server dependencies
+mcp>=1.0.0
+
+# Image processing
+numpy>=1.21.0
+tifffile>=2021.7.0
+imageio>=2.9.0
+zarr>=2.10.0
+
+# OME-Zarr support
+ome-zarr>=0.8.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Optional: napari for interactive viewing (replaced with matplotlib)
+# napari>=0.4.0
+# napari[all]>=0.4.0
+# pyqt5>=5.15.0
+
+# Development dependencies
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.8.0 
