@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+      "image-converter": {
+        "command": "python",
+        "args": ["server.py"],
+        "env": {
+          "PYTHONPATH": "."
+        }
+      }
+    }
+  } 
+  
